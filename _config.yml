@@ -1,0 +1,11 @@
+title: Colophon Group
+description: Short tagline
+url: https://colophon-group.github.io
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache   # optional but recommended
+
+# nav (optional)
+collections:
+  pages:
+    output: true
