@@ -1,0 +1,11 @@
+---
+---
+// your accent
+$link-color: #9e2000;
+// optional tweaks
+$link-color-hover: mix(#000, $link-color, 15%);
+$link-color-visited: mix(#fff, $link-color, 15%);
+$masthead-link-color: $link-color; // nav links
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // theme
