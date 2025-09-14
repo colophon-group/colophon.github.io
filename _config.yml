@@ -1,5 +1,6 @@
 title: Colophon Group
 description: Short tagline
+logo: "/assets/colophon_group_sticker.svg"
 url: https://colophon-group.github.io
 remote_theme: mmistakes/minimal-mistakes
 plugins:
