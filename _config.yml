@@ -1,12 +1,14 @@
 title: Colophon Group
 description: Short tagline
 logo: "/assets/colophon_group_sticker.svg"
-url: https://colophon-group.github.io
+url: https://colophon-group.org
 remote_theme: mmistakes/minimal-mistakes
 plugins:
-  - jekyll-include-cache   # optional but recommended
+  - jekyll-include-cache
 
-# nav (optional)
 collections:
   pages:
     output: true
+
+atom_feed:
+  hide: true
